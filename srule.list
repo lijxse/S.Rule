@@ -1,12 +1,13 @@
+PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram
+PROCESS-NAME,/Applications/Figma Beta.app
 DOMAIN-SUFFIX,b-cdn.net
-PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
 PROCESS-NAME,/Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper
 PROCESS-NAME,/Applications/zoom.us.app/Contents/MacOS/zoom.us
 PROCESS-NAME,/Applications/Spectrum.app/Contents/MacOS/Spectrum
 DOMAIN-KEYWORD,quora
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,muzli.space
-DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,blaze.today
 DOMAIN-SUFFIX,linear.app
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,liferay.design
@@ -55,7 +56,6 @@ DOMAIN-SUFFIX,nav.al
 DOMAIN-SUFFIX,clipconverter.cc
 DOMAIN-SUFFIX,mm-cg.com
 DOMAIN-SUFFIX,python.org
-PROCESS-NAME,/Applications/Telegram Desktop.app/Contents/MacOS/Telegram Desktop
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,deviantart.com
